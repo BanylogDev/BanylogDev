@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="BanylogDev banner" width="1000"/>
+  <img src="./banner.jpg" alt="BanylogDev banner" width="1000"/>
 </p>
 
 # 👋 Hi, I’m BanylogDev
