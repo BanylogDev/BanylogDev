@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="./banner.jpg" alt="BanylogDev banner" width="1000"/>
+<p align="left">
+  <img src="./banner.jpg" alt="BanylogDev logo" width="125" />
 </p>
+
 
 # 👋 Hi, I’m BanylogDev
 
