@@ -1,7 +1,4 @@
-<div style="display: flex; align-items: center;">
-  <img src="./banner.jpg" alt="BanylogDev logo" width="125" style="margin-right: 10px;" />
-  <h1 style="margin: 0;">👋 Hi, I’m BanylogDev</h1>
-</div>
+# 👋 Hi, I’m BanylogDev
 
 I’m a backend developer with a focus on clean, secure, and scalable systems in **C# .NET**.  
 Right now, I’m building **eVOL** — a full-stack chat messaging platform with modern real-time features, built from the ground up with performance and scalability in mind.
