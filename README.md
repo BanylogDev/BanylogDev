@@ -74,7 +74,6 @@ A modern **full stack chat messaging application** built with **.NET 8**, **Blaz
 ![BanylogDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BanylogDev&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BanylogDev&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=BanylogDev&theme=tokyonight&border_radius=5)
-![Trophies](https://github-profile-trophy.vercel.app/?username=BanylogDev&theme=tokyonight)
 
 ---
 
@@ -83,3 +82,4 @@ A modern **full stack chat messaging application** built with **.NET 8**, **Blaz
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/banylog.dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:banylogdev@gmail.com)
 
+---
