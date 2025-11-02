@@ -1,17 +1,19 @@
 <p align="center">
-  <!-- Banner: upload `banner.png` to your repo's root and this will show -->
   <img src="./banner.png" alt="BanylogDev banner" width="1000"/>
 </p>
 
-# 👋 Hi — I’m BanylogDev
+# 👋 Hi, I’m BanylogDev
 
-I build backend systems in C# with a focus on clean architecture, security, and developer-friendly APIs.  
-Right now I’m deep into building **eVOL** — a full-stack modern chat application with real-time messaging, presence, media sharing, threads, and advanced moderation tools. I love turning complex backend challenges into smooth user experiences.
+I’m a backend developer with a focus on clean, secure, and scalable systems in **C# .NET**.  
+Right now, I’m building **eVOL** — a full-stack chat messaging platform with modern real-time features, built from the ground up with performance and scalability in mind.
 
-- 🔭 Currently building: **eVOL** — Advanced chat platform (full-stack)
-- 🧩 Developer level: *Early Intermediate* (Backend C#)
-- 📍 Greece
-- ✉️ banylogdev@gmail.com
+---
+
+## 🧠 About Me
+- 🔭 Currently working on: **eVOL – Advanced Chat App**
+- 💻 Developer Level: *Early Intermediate (Backend C#)*
+- 🌍 Based in Greece  
+- ✉️ Contact me: **banylogdev@gmail.com**
 
 ---
 
@@ -21,46 +23,62 @@ Right now I’m deep into building **eVOL** — a full-stack modern chat applica
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=asp.net&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
-## 🚀 Featured Project — eVOL
-**eVOL** is my current full-stack project: a modern chat application built with a C# backend (ASP.NET Core), a reactive front end, real-time websockets, and features focused on large communities:
+## 🚀 eVOL – Advanced Chat Messaging App
 
-- Real-time messaging & presence
-- Threaded conversations & attachments
-- Advanced moderation & anti-abuse tooling
-- Scalable architecture (clean domain layers + tests)
+A modern **full stack chat messaging application** built with **.NET 8**, **Blazor WebAssembly**, **SignalR**, and multiple databases.
 
-Repository (work in progress): **`BanylogDev/eVOL`** — _coming soon / early alpha_.
+### ⚡ Features
+- Real-time messaging with **SignalR**
+- **JWT authentication** and password hashing (BCrypt)
+- **AES encryption** for sensitive data
+- **Caching with Redis**
+- **User profiles in MySQL**
+- **Chat messages in MongoDB**
+- Future-ready: **RabbitMQ** message queue integration
+- **Scalable API layer** behind **NGINX load balancer**
+- **Containerized services** with **Docker Compose**
+
+### 🛠 Technologies
+| Layer | Technology |
+|-------|-------------|
+| **Backend** | .NET 8, ASP.NET Core Web API, Clean Architecture |
+| **Frontend** | Blazor WebAssembly |
+| **Database** | MySQL (users), MongoDB (messages) |
+| **Caching** | Redis |
+| **Security** | JWT, AES Encryption, BCrypt |
+| **Real-time** | SignalR |
+| **Load Balancing** | NGINX |
+| **Containerization** | Docker, Docker Compose |
+| **CI/CD** | GitHub Actions Pipeline |
+
+### 🏗 Architecture Overview
+- **Frontend:** Blazor WebAssembly  
+- **Backend:** 3 API instances (`evol.api1`, `evol.api2`, `evol.api3`) behind **NGINX**  
+- **Databases:** MySQL (users), MongoDB (chat), Redis (cache)  
+- **Reverse Proxy:** NGINX distributes requests  
+- **Docker Compose:** Orchestrates all containers and volumes  
 
 ---
 
-## 📂 Selected repos
-- 🔸 [BankApi-Clean-Architecture](https://github.com/BanylogDev/BankApi-Clean-Architecture) — JWT tokens, refresh tokens, bcrypt, clean architecture, unit tests.
-- 🔸 [pos_backend_csharp](https://github.com/BanylogDev/pos_backend_csharp) — POS backend built with .NET & Blazor.
-
----
-
-## 📈 GitHub Stats & Activity
+## 📈 GitHub Stats
 ![BanylogDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BanylogDev&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BanylogDev&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=BanylogDev&theme=tokyonight&border_radius=5)
+![Trophies](https://github-profile-trophy.vercel.app/?username=BanylogDev&theme=tokyonight)
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-vasilakis-2258582a6/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/banylog.dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:banylogdev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-discord-invite-or-link)
 
----
-
-## 🧪 Fun / Extras
-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BanylogDev&theme=tokyonight&border_radius=5)
-- ![Trophies](https://github-profile-trophy.vercel.app/?username=BanylogDev&theme=tokyonight)
-
----
-
-Thanks for stopping by — if you want to chat about architecture patterns or try an early build of **eVOL**, drop a line at banylogdev@gmail.com ✌️
