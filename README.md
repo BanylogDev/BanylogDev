@@ -79,3 +79,7 @@ A modern **full stack chat messaging application** built with **.NET 8**, **Blaz
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:banylogdev@gmail.com)
 
 ---
+
+Date: 11 / 3 / 2025
+
+---
