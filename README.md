@@ -1,4 +1,4 @@
-# 👋 Hi, I’m BanylogDev
+# 👋 Hi, I’m Banylog
 
 I’m a backend developer with a focus on clean, secure, and scalable systems in **C# .NET**.  
 Right now, I’m building **eVOL** — a full-stack chat messaging platform with modern real-time features, built from the ground up with performance and scalability in mind.
@@ -58,10 +58,11 @@ A modern **full stack chat messaging application** built with **.NET 8**, **Blaz
 | **CI/CD** | GitHub Actions Pipeline |
 
 ### 🏗 Architecture Overview
-- **Frontend:** Blazor WebAssembly  
-- **Backend:** 3 API instances (`evol.api1`, `evol.api2`, `evol.api3`) behind **NGINX**  
+- **Frontend:** Blazor WebAssembly - Hosted
+- **Backend:** Api Instanced using **NGINX**  
 - **Databases:** MySQL (users), MongoDB (chat), Redis (cache)  
-- **Reverse Proxy:** NGINX distributes requests  
+- **Reverse Proxy:** NGINX distributes requests
+- **RabbitMq:** Message Broker combined with signalR
 - **Docker Compose:** Orchestrates all containers and volumes  
 
 ---
