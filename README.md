@@ -62,7 +62,7 @@ A modern **full stack chat messaging application** built with **.NET 8**, **Blaz
 - **Backend:** Api Instanced using **NGINX**  
 - **Databases:** MySQL (users), MongoDB (chat), Redis (cache)  
 - **Reverse Proxy:** NGINX distributes requests
-- **RabbitMq:** Message Broker combined with signalR
+- **RabbitMQ:** Message Broker combined with signalR
 - **Docker Compose:** Orchestrates all containers and volumes  
 
 ---
