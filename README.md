@@ -7,7 +7,7 @@ Right now, I’m building **eVOL** — a full-stack chat messaging platform with
 ---
 
 ## 🧠 About Me
-- 🔭 Currently working on: **eVOL – Advanced Chat App**
+- 🔭 Currently working on: **eVOL – Advanced Chat App - 60% Completed**
 - 💻 Developer Level: *Early Intermediate (Backend C#)*
 - 🌍 Based in Greece  
 - ✉️ Contact me: **banylogdev@gmail.com**
@@ -81,6 +81,6 @@ A modern **full stack chat messaging application** built with **.NET 8**, **Blaz
 
 ---
 
-Date: 11 / 3 / 2025
+Date: 11 / 4 / 2025
 
 ---
