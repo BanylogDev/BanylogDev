@@ -41,7 +41,7 @@ A modern **full stack chat messaging application** built with **.NET 8**, **Blaz
 - **Caching with Redis**
 - **User profiles in MySQL**
 - **Chat messages in MongoDB**
-- Future-ready: **RabbitMQ** message queue integration
+- **Future-ready:** **RabbitMQ** message queue integration
 - **Scalable API layer** behind **NGINX load balancer**
 - **Containerized services** with **Docker Compose**
 
@@ -55,6 +55,7 @@ A modern **full stack chat messaging application** built with **.NET 8**, **Blaz
 | **Security** | JWT, AES Encryption, BCrypt |
 | **Real-time** | SignalR |
 | **Load Balancing** | NGINX |
+| **Message Broker** | RabbitMQ |
 | **Containerization** | Docker, Docker Compose |
 | **CI/CD** | GitHub Actions Pipeline |
 
