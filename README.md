@@ -8,7 +8,7 @@ Right now, I’m building **eVOL** — a full-stack chat messaging platform with
 
 ## 🧠 About Me
 - 👤 Age: 17
-- 🔭 Currently working on: **eVOL – Advanced Chat App - 68% Completed**
+- 🔭 Currently working on: **eVOL – Advanced Chat App - 75% Completed**
 - 💻 Developer Level: *Early Intermediate (Backend C#)*
 - 🌍 Based in Greece
 - ✉️ Contact me: **banylogdev@gmail.com**
