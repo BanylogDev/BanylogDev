@@ -83,6 +83,6 @@ A modern **full stack chat messaging application** built with **.NET 8**, **Blaz
 
 ---
 
-Date: 11 / 6 / 2025
+Date: 11 / 8 / 2025
 
 ---
