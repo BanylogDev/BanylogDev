@@ -1,15 +1,15 @@
 # 👋 Hello, I’m Banylog,
 
 I’m a new upcoming backend developer with a focus on clean, secure, and scalable systems in **C# .NET**.  
-Right now, I’m building **eVOL** — a full-stack chat messaging platform with modern real-time features, built from the ground up with performance and scalability in mind.
+Right now, I’m building **eVOL** — the backend of an advanced chat messaging platform with modern real-time features, built from the ground up with performance and scalability in mind.
 
 ---
 ---
 
 ## 🧠 About Me
 - 👤 Age: 17
-- 🔭 Currently working on: **eVOL – Advanced Chat App - 75% Completed**
-- 💻 Developer Level: *Early Intermediate (Backend C#)*
+- 🔭 Currently working on: **eVOL – Advanced Chat App - 84% Completed**
+- 💻 Developer Level: *Intermediate (Backend C# - Knowledge Exp)*
 - 🌍 Based in Greece
 - ✉️ Contact me: **banylogdev@gmail.com**
 
@@ -19,7 +19,6 @@ Right now, I’m building **eVOL** — a full-stack chat messaging platform with
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=asp.net&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -32,7 +31,7 @@ Right now, I’m building **eVOL** — a full-stack chat messaging platform with
 
 ## 🚀 eVOL – Advanced Chat Messaging App
 
-A modern **full stack chat messaging application** built with **.NET 8**, **Blazor WebAssembly**, **SignalR**, and multiple databases.
+A modern **backend for a chat messaging application** built with **.NET 8**, **SignalR**, and multiple databases.
 
 ### ⚡ Features
 - Real-time messaging with **SignalR**
@@ -41,6 +40,7 @@ A modern **full stack chat messaging application** built with **.NET 8**, **Blaz
 - **Caching with Redis**
 - **User profiles in MySQL**
 - **Chat messages in MongoDB**
+- **Logging using serilog-seq
 - **Future-ready:** **RabbitMQ** message queue integration
 - **Scalable API layer** behind **NGINX load balancer**
 - **Containerized services** with **Docker Compose**
@@ -49,18 +49,17 @@ A modern **full stack chat messaging application** built with **.NET 8**, **Blaz
 | Layer | Technology |
 |-------|-------------|
 | **Backend** | .NET 8, ASP.NET Core Web API, Clean Architecture |
-| **Frontend** | Blazor WebAssembly |
 | **Database** | MySQL (users), MongoDB (messages) |
 | **Caching** | Redis |
 | **Security** | JWT, AES Encryption, BCrypt |
 | **Real-time** | SignalR |
 | **Load Balancing** | NGINX |
 | **Message Broker** | RabbitMQ |
+| **Logging** | Serilog - Seq
 | **Containerization** | Docker, Docker Compose |
 | **CI/CD** | GitHub Actions Pipeline |
 
 ### 🏗 Architecture Overview
-- **Frontend:** Blazor WebAssembly - Hosted
 - **Backend:** Api Instanced using **NGINX**  
 - **Databases:** MySQL (users), MongoDB (chat), Redis (cache)  
 - **Reverse Proxy:** NGINX distributes requests
