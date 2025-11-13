@@ -71,7 +71,6 @@ A modern **backend for a chat messaging application** built with **.NET 8**, **S
 ## 📈 GitHub Stats
 ![BanylogDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BanylogDev&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BanylogDev&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=BanylogDev&theme=tokyonight&border_radius=5)
 
 ---
 
