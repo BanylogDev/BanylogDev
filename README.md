@@ -40,7 +40,8 @@ A modern **backend for a chat messaging application** built with **.NET 8**, **S
 - **Caching with Redis**
 - **User profiles in MySQL**
 - **Chat messages in MongoDB**
-- **Logging using serilog-seq
+- **Logging using serilog-seq**
+- **Unit testing using xUnit**
 - **Future-ready:** **RabbitMQ** message queue integration
 - **Scalable API layer** behind **NGINX load balancer**
 - **Containerized services** with **Docker Compose**
@@ -55,7 +56,8 @@ A modern **backend for a chat messaging application** built with **.NET 8**, **S
 | **Real-time** | SignalR |
 | **Load Balancing** | NGINX |
 | **Message Broker** | RabbitMQ |
-| **Logging** | Serilog - Seq
+| **Logging** | Serilog - Seq |
+| **Uni Testing | xUnit |
 | **Containerization** | Docker, Docker Compose |
 | **CI/CD** | GitHub Actions Pipeline |
 
@@ -81,6 +83,6 @@ A modern **backend for a chat messaging application** built with **.NET 8**, **S
 
 ---
 
-Date: 11 / 13 / 2025
+Date: 11 / 14 / 2025
 
 ---
