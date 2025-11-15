@@ -31,7 +31,7 @@ Right now, I’m building **eVOL** — the backend of an advanced chat messaging
 
 ## 🚀 eVOL – Advanced Chat Messaging App
 
-A modern **backend for a chat messaging application** built with **.NET 8**, **SignalR**, and multiple databases.
+A modern **backend for a chat messaging application** built with **.NET 10**, **SignalR**, and multiple databases.
 
 ### ⚡ Features
 - Real-time messaging with **SignalR**
@@ -49,7 +49,7 @@ A modern **backend for a chat messaging application** built with **.NET 8**, **S
 ### 🛠 Technologies
 | Layer | Technology |
 |-------|-------------|
-| **Backend** | .NET 8, ASP.NET Core Web API, Clean Architecture |
+| **Backend** | .NET 10, ASP.NET Core Web API, Clean Architecture |
 | **Database** | MySQL (users), MongoDB (messages) |
 | **Caching** | Redis |
 | **Security** | JWT, AES Encryption, BCrypt |
@@ -83,6 +83,6 @@ A modern **backend for a chat messaging application** built with **.NET 8**, **S
 
 ---
 
-Date: 11 / 14 / 2025
+Date: 11 / 15 / 2025
 
 ---
