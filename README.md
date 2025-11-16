@@ -57,7 +57,7 @@ A modern **backend for a chat messaging application** built with **.NET 10**, **
 | **Load Balancing** | NGINX |
 | **Message Broker** | RabbitMQ |
 | **Logging** | Serilog - Seq |
-| **Uni Testing | xUnit |
+| **Unit Testing** | xUnit |
 | **Containerization** | Docker, Docker Compose |
 | **CI/CD** | GitHub Actions Pipeline |
 
