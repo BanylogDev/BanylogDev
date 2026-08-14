@@ -1,9 +1,8 @@
 # Hello, I am George,
 
 I am an upcoming backend developer with a focus on clean, secure, and scalable systems in **C# .NET**.  
-Right now, I am building **RightCar** - An individual decision platform for cars.
+Right now, I am building a startup which currently is private.
 
----
 ---
 
 ## About Me
