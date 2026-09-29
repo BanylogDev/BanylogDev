@@ -6,7 +6,7 @@ Right now, I am building a startup which currently is private.
 ---
 
 ## About Me
-- Age: 17
+- Age: 18
 - Developer Level: *Intermediate (Backend C# - Knowledge Experience)*
 - Based in Greece
 - Contact me: **banylogdev@gmail.com**
@@ -75,6 +75,6 @@ A modern **backend for a chat messaging application** built with **.NET 10**, **
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-vasilakis-2258582a6/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/banylog.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/banylogdev/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/whoknew01)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:banylogdev@gmail.com)
